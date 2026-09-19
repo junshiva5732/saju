@@ -54,3 +54,6 @@ app.*.map.json
 
 # JVM 힙 덤프
 *.hprof
+
+# Kotlin 컴파일 세션 파일
+/android/.kotlin/
